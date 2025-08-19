@@ -12,6 +12,7 @@ This data analytics project aims to provide insights into sales performance of a
 ### Data Source 
 
 The primary dataset used for this analysis is the "online_retail.csv" file.
+  - Source/link: https://www.kaggle.com/datasets/vijayuv/onlineretail
 
 ### Tools
 
